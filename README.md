@@ -88,11 +88,22 @@ class RedGlitchX:
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"> Featured Weapon
 
 <div align="center">
+
 <a href="https://github.com/RedGlitchX/GodJsGlitch">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RedGlitchX&repo=GodJsGlitch&title_color=ff0033&icon_color=ff0033&text_color=c9d1d9&bg_color=0d1117&border_color=ff0033&show_owner=true" alt="GodJsGlitch" />
+  <img src="https://img.shields.io/badge/%F0%9F%94%A6%20GodJsGlitch-JavaScript%20Recon%20Engine-ff0033?style=for-the-badge&labelColor=0d1117" alt="GodJsGlitch" />
 </a>
 
+<br/>
+
+<a href="https://github.com/RedGlitchX/GodJsGlitch/stargazers"><img src="https://img.shields.io/github/stars/RedGlitchX/GodJsGlitch?style=for-the-badge&color=ff0033&labelColor=0d1117&logo=github&logoColor=white" alt="stars" /></a>
+<a href="https://github.com/RedGlitchX/GodJsGlitch/network/members"><img src="https://img.shields.io/github/forks/RedGlitchX/GodJsGlitch?style=for-the-badge&color=ff0033&labelColor=0d1117&logo=github&logoColor=white" alt="forks" /></a>
+<img src="https://img.shields.io/github/languages/top/RedGlitchX/GodJsGlitch?style=for-the-badge&color=ff0033&labelColor=0d1117&logo=python&logoColor=white" alt="top language" />
+<img src="https://img.shields.io/github/last-commit/RedGlitchX/GodJsGlitch?style=for-the-badge&color=ff0033&labelColor=0d1117&logo=git&logoColor=white" alt="last commit" />
+
+<br/><br/>
+
 <sub>🔦 A single-file JavaScript hunting engine — finds <b>every</b> JS file (live, historical, hidden, lazy-loaded), mines secrets & endpoints, and validates them. No dependencies.</sub>
+
 </div>
 
 ---
@@ -101,12 +112,7 @@ class RedGlitchX:
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=RedGlitchX&show_icons=true&count_private=true&hide_border=true&title_color=ff0033&icon_color=ff0033&text_color=c9d1d9&bg_color=0d1117" alt="stats" />
-<img height="165" src="https://streak-stats.demolab.com?user=RedGlitchX&hide_border=true&background=0d1117&stroke=ff0033&ring=ff0033&fire=ff0033&currStreakLabel=ff0033&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e&excludeDaysLabel=8b949e" alt="streak" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RedGlitchX&layout=compact&hide_border=true&title_color=ff0033&text_color=c9d1d9&bg_color=0d1117&langs_count=8" alt="top langs" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=RedGlitchX&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=4&margin-h=4" alt="trophies" width="100%" />
+<img height="180" src="https://streak-stats.demolab.com?user=RedGlitchX&hide_border=true&background=0d1117&stroke=ff0033&ring=ff0033&fire=ff0033&currStreakLabel=ff0033&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e&excludeDaysLabel=8b949e" alt="streak" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=RedGlitchX&bg_color=0d1117&color=ff0033&line=ff0033&point=ffffff&area=true&hide_border=true" alt="activity graph" width="100%" />
 
@@ -115,17 +121,6 @@ class RedGlitchX:
 ---
 
 <div align="center">
-
-### 🐍 Watch the snake eat my contributions
-<sub>(activates automatically once the workflow in <code>.github/workflows/snake.yml</code> runs — see setup notes)</sub>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RedGlitchX/RedGlitchX/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RedGlitchX/RedGlitchX/output/github-contribution-grid-snake.svg" />
-  <img alt="snake animation" src="https://raw.githubusercontent.com/RedGlitchX/RedGlitchX/output/github-contribution-grid-snake.svg" width="100%" />
-</picture>
-
-<br/>
 
 > _"The quieter you become, the more you are able to hear."_ — Kali Linux
 
